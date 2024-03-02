@@ -11,10 +11,6 @@ enum PrintType {
 	E_INT
 };
 
-class {
-	
-}
-
 class RGB {
 protected:
 	unsigned short r;
